@@ -22,6 +22,7 @@ public class SetReview {
         //System.out.println(numSet);
         System.out.println(numSet.add(2));
          System.out.println("first repeating:  " +firstRepeatingChar("java developer"));
+        System.out.println(secondWay());
     }
     public static Character firstRepeatingChar(String str){
         //Create a hashset
@@ -32,6 +33,23 @@ public class SetReview {
 
         }
         return null;
+    }
+
+    public static Character secondWay(){
+        String a="dfacfadggfgfg";
+        String b="";
+        Character chr=null;
+
+        for (Character C:a.toCharArray()) {
+            if (b.contains(""+C)) {
+                chr=C;
+                break;
+            }
+            b=b+""+C;
+
+
+        }
+   return chr;
     }
 
 }
