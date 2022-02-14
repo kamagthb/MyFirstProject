@@ -4,19 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="221203ed-4b41-4fc1-a8e2-5a21c555e52b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections-review/collections-review.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections-review/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections-review/src/main/java/ArrayListReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections-review/src/main/java/MapReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections-review/src/main/java/SetReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections-review/src/main/java/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/collections-review/src/main/java/TwoSum.java" afterDir="false" />
+    <list default="true" id="221203ed-4b41-4fc1-a8e2-5a21c555e52b" name="Default Changelist" comment="newly added">
+      <change afterPath="$PROJECT_DIR$/lambda/lambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lambda/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/collections-review/src/main/java/SetReview.java" beforeDir="false" afterPath="$PROJECT_DIR$/collections-review/src/main/java/SetReview.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +54,10 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -117,6 +115,14 @@
       <option name="presentableId" value="Default" />
       <updated>1642856791443</updated>
     </task>
+    <task id="LOCAL-00001" summary="newly added">
+      <created>1643326773421</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643326773421</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,5 +136,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="newly added" />
+    <option name="LAST_COMMIT_MESSAGE" value="newly added" />
   </component>
 </project>

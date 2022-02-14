@@ -3,17 +3,20 @@
   <component name="CompilerConfiguration">
     <option name="USE_RELEASE_OPTION" value="false" />
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="generics" />
         <module name="collections-review" />
+        <module name="lambda" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
       <module name="collections-review" target="11" />
       <module name="generics" target="11" />
+      <module name="lambda" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
